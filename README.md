@@ -217,12 +217,6 @@ This project is licensed under the MIT License.
 See LICENSE file for details.
 
 
-📧 CONTACT
-----------
-Developer: [Your Name]
-Email: [Your Email]
-LinkedIn: [Your LinkedIn]
-GitHub: [Your GitHub Profile]
 
 ---
 ⭐ If you find this project helpful, please give it a star on GitHub!
